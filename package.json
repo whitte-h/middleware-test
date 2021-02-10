@@ -1,0 +1,16 @@
+{
+  "name": "middleware-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "serverless-middleware": "^0.0.11",
+    "serverless-offline": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "serverless offline start"
+  },
+  "author": "",
+  "license": "ISC"
+}
